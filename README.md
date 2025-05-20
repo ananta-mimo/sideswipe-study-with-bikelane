@@ -29,7 +29,7 @@ sideswipe-study-with-bikelane/
 git clone https://github.com/ananta-mimo/sideswipe-study-with-bikelane.git
 cd sideswipe-study-with-bikelane
 
-### 2. Setup the environment
+## 2. Setup the environment
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
@@ -46,7 +46,7 @@ folium: for interactive maps
 scikit-learn: for any modeling or statistical comparison
 
 
-# Author
+### Author
 Ananta Sinha
 Transportation AI Researcher | PhD |
 GitHub Profile: ananta-mimo
