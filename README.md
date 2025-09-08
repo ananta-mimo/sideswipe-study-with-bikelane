@@ -5,7 +5,7 @@ This project analyzes how adding bike lanes influences sideswipe crash occurrenc
 
  - Goal: Evaluate whether bike lanes reduce conflicts and improve safety for bicyclists, especially at signalized intersections or in areas with high crash frequency.
 
- - Potential Concern: Installing bike lanes reduces the effective roadway width. Narrower lanes may lead to closer vehicle spacing, abrupt lane changes, or driver encroachment into bike lanes — factors that could increase sideswipe crash risk.
+ - Potential Concern: Installing bike lanes reduces the effective roadway width. Narrower lanes may lead to closer vehicle spacing, abrupt lane changes, or driver encroachment into bike lanes, factors that could increase sideswipe crash risk.
 
 ## 🚦 Project Objectives
 
