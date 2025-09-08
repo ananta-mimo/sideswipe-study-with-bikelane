@@ -1,3 +1,4 @@
+
 # Sideswipe Study with Bikelane
 
 This project analyzes the effect of adding bike lanes on sideswipe crash occurrences at intersections. The goal is to evaluate whether the presence of bike lanes reduces conflicts and improves safety for bicyclists, especially at signalized intersections or areas with high crash frequency.
@@ -10,8 +11,10 @@ This project analyzes the effect of adding bike lanes on sideswipe crash occurre
 - Compare crash patterns before and after bike lane implementation
 - Generate summary statistics, visualizations, and geospatial outputs
 
-## 📁 Project Structure 
 
+
+## 📁 Project Structure 
+``````
 sideswipe-study-with-bikelane/
 │
 ├── data/ # Input data files (crashes, OSM, etc.)
@@ -23,7 +26,7 @@ sideswipe-study-with-bikelane/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Ignored files and folders
 
-
+``````
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/ananta-mimo/sideswipe-study-with-bikelane.git
@@ -45,7 +48,7 @@ folium: for interactive maps
 
 scikit-learn: for any modeling or statistical comparison
 
-
+`````
 ### Author
 Ananta Sinha
 Transportation AI Researcher | PhD |
