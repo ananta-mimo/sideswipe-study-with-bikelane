@@ -1,4 +1,5 @@
-# Influence of Bikelane on Sideswipe 
+
+# Sideswipe Study with Bikelane
 
 This project analyzes the effect of adding bike lanes on sideswipe crash occurrences at intersections. The goal is to evaluate whether the presence of bike lanes reduces conflicts and improves safety for bicyclists, especially at signalized intersections or areas with high crash frequency.
 
